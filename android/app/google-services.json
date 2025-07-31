@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609289058199",
+    "project_id": "viagoapp-c9672",
+    "storage_bucket": "viagoapp-c9672.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609289058199:android:e2a593d1ced4583987b6d2",
+        "android_client_info": {
+          "package_name": "com.example.viago_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKemRG0klkrryoKGKtvweRL-paKFIQ4nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
